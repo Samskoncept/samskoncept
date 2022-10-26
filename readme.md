@@ -8,7 +8,7 @@ A passionate Fullstack Web Developer from Nigeria
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP
+Javascript, HTML, CSS, PHP, WordPress
 
 
 ## 🔗 Links
