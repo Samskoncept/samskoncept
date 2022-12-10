@@ -1,7 +1,7 @@
 
 #  Hi there 👋 I'm Samuel
 
-A passionate Fullstack Web Developer from Nigeria
+A passionate Web Developer 
 
 
 ![Logo](https://dailyictsolutions.com/wp-content/uploads/2020/04/Dailyictsolutions-logo.png)
