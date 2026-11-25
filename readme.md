@@ -1,10 +1,8 @@
 
 #  Hi there 👋 I'm Samuel
 
-A passionate Web Developer 
+Creative Architect
 
-
-![Logo](https://dailyictsolutions.com/wp-content/uploads/2020/04/Dailyictsolutions-logo.png)
 
 
 ## 🛠 Skills
